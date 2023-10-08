@@ -1,0 +1,21 @@
+
+.profile {
+    width: 30px;
+}
+
+.home_icon, 
+.plus_icon, 
+.send_icon, 
+.compas_icon {
+    font-size: 30px;
+    margin: 5px;
+}
+
+.form {
+    position: relative;
+}
+.search_icon {
+    position: absolute;
+    left: 7px;
+    top: 5px;
+}
